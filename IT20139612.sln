@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client.Service", "Client.Service\Client.Service.csproj", "{5BAD6004-F2CF-4EB7-ACFB-26F66C6D8EB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client.Ocelot", "Client.Ocelot\Client.Ocelot.csproj", "{17A378CD-A7F7-47FB-A5ED-A68933F83556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BAD6004-F2CF-4EB7-ACFB-26F66C6D8EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BAD6004-F2CF-4EB7-ACFB-26F66C6D8EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BAD6004-F2CF-4EB7-ACFB-26F66C6D8EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BAD6004-F2CF-4EB7-ACFB-26F66C6D8EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A378CD-A7F7-47FB-A5ED-A68933F83556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A378CD-A7F7-47FB-A5ED-A68933F83556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A378CD-A7F7-47FB-A5ED-A68933F83556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A378CD-A7F7-47FB-A5ED-A68933F83556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4703DEF-81F6-476A-8862-4D007F87E06F}
+	EndGlobalSection
+EndGlobal
